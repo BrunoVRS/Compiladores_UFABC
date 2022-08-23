@@ -24,4 +24,4 @@ Checklist
 9 Qual linguagem destino? (C/Java/Python) -> JAVA
 
 
-https://youtu.be/ZcTFrbvDCUk
+https://youtu.be/CGmtz4oEYO4
